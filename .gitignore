@@ -1,0 +1,12 @@
+﻿# IDEA
+.idea/
+out/
+target/
+*.iml
+
+# class编译文件
+src/**/*.class
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
